@@ -20,6 +20,7 @@
     "webpack-dev-server": "^3.1.14"
   },
   "dependencies": {
+    "orbit-controls": "^1.2.4",
     "three": "^0.101.1",
     "three-gltf-loader": "^1.101.0"
   }
