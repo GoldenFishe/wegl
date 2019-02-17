@@ -6,7 +6,7 @@ module.exports = {
     output: {
         path: path.resolve(__dirname, 'docs'),
         filename: 'bundle.js',
-        publicPath: "https://goldenfishe.github.io/wegl/"
+        publicPath: "/wegl/"
     },
     module: {
         rules: [
